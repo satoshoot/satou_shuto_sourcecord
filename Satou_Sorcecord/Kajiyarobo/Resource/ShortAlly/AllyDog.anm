@@ -1,0 +1,8333 @@
+# MotionDataCount
+25
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.235274 0.971929
+60
+0.000000 0.000000 0.112263 0.993679
+120
+0.000000 0.000000 0.235274 0.971929
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 -0.210904 0.977507
+60
+0.000000 0.000000 -0.099833 0.995004
+120
+0.000000 0.000000 -0.210904 0.977507
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.049964 -0.024966 0.001249 0.998438
+14
+0.049507 -0.186170 -0.006851 0.981245
+28
+0.049964 -0.024966 0.001249 0.998438
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+28
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+14
+0.000000 0.198669 -0.000000 0.980067
+28
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+28
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.129897 -0.196164 0.204984 0.950067
+14
+0.019839 0.053268 0.221423 0.973520
+28
+0.129897 -0.196164 0.204984 0.950067
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+28
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.412321 0.911039
+28
+0.000000 0.000000 0.412321 0.911039
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+28
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.265438 -0.474657 -0.258000 0.798548
+14
+0.120755 0.215933 -0.297881 0.921986
+28
+-0.265438 -0.474657 -0.258000 0.798548
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+28
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.434966 -0.000000 -0.000000 0.900447
+14
+0.331129 0.000000 -0.000000 0.943585
+28
+-0.434966 -0.000000 -0.000000 0.900447
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+28
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.186403 0.000000 0.000000 0.982473
+14
+-0.377875 -0.000000 0.000000 0.925857
+28
+0.186403 0.000000 0.000000 0.982473
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+28
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.074345 -0.124324 0.009342 0.989408
+30
+0.037348 0.087327 -0.003276 0.995474
+60
+0.074345 -0.124324 0.009342 0.989408
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.124675 0.000000 0.992198
+30
+0.000000 -0.112263 0.000000 0.993679
+60
+0.000000 0.124675 0.000000 0.992198
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.118622 -0.009734 0.371498 0.920773
+30
+-0.299317 0.063888 0.177023 0.935409
+60
+0.118622 -0.009734 0.371498 0.920773
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.259496 -0.000000 0.965744
+60
+0.000000 -0.259496 -0.000000 0.965744
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.302724 -0.064200 -0.169297 0.935722
+30
+0.145113 0.029503 -0.272947 0.950564
+60
+-0.302724 -0.064200 -0.169297 0.935722
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.158688 -0.001543 0.024651 0.987020
+30
+0.161786 0.000000 -0.000000 0.986826
+60
+-0.158688 -0.001543 0.024651 0.987020
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.149438 0.000000 -0.000000 0.988771
+30
+-0.174108 0.000000 0.000000 0.984727
+60
+0.149438 0.000000 -0.000000 0.988771
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.073436 0.198111 0.014886 0.977311
+60
+0.073436 0.198111 0.014886 0.977311
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.186403 0.000000 0.982473
+40
+0.013967 -0.185879 -0.073616 0.979711
+60
+0.000000 -0.186403 0.000000 0.982473
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.016531 0.411989 0.214343 0.885465
+40
+0.064257 0.305764 0.200576 0.928519
+60
+0.016531 0.411989 0.214343 0.885465
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.401564 -0.293535 -0.065228 0.865060
+60
+0.401564 -0.293535 -0.065228 0.865060
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.183662 0.918310 0.000000 -0.350679
+60
+0.183662 0.918310 0.000000 -0.350679
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.304990 0.000000 -0.128948 0.943585
+60
+-0.304990 0.000000 -0.128948 0.943585
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.126247 0.000000 0.053376 0.990562
+60
+0.126247 0.000000 0.053376 0.990562
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+20
+-0.037070 -0.149333 -0.005603 0.988076
+40
+-0.147760 -0.147760 -0.022332 0.977668
+54
+0.074930 0.000000 0.000000 0.997189
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+20
+-0.121175 -0.305040 0.029333 0.944143
+40
+-0.121175 -0.305040 0.029333 0.944143
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+10
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+6
+-0.000000 0.000000 -0.198669 0.980067
+12
+0.057956 -0.289781 -0.000000 0.955336
+18
+0.000000 -0.000000 0.331129 0.943585
+24
+-0.094023 0.470115 0.000000 0.877583
+30
+-0.000000 0.000000 -0.198669 0.980067
+36
+0.057956 -0.289781 -0.000000 0.955336
+42
+0.000000 -0.000000 0.331129 0.943585
+48
+-0.094023 0.470115 0.000000 0.877583
+60
+-0.094023 0.470115 0.000000 0.877583
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+10
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+6
+0.000000 -0.000000 -0.366273 0.930508
+12
+-0.071832 -0.359160 0.000000 0.930508
+18
+0.000000 0.000000 0.149438 0.988771
+24
+0.036557 0.182783 0.000000 0.982473
+30
+0.000000 -0.000000 -0.366273 0.930508
+36
+-0.071832 -0.359160 0.000000 0.930508
+42
+0.000000 0.000000 0.149438 0.988771
+48
+0.036557 0.182783 0.000000 0.982473
+60
+0.036557 0.182783 0.000000 0.982473
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+20
+0.210904 0.000000 -0.000000 0.977507
+40
+0.319309 -0.000000 -0.000000 0.947651
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+20
+-0.112263 0.000000 0.000000 0.993679
+40
+-0.479426 0.000000 0.000000 0.877583
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.112263 0.000000 0.000000 0.993679
+120
+-0.726009 0.000000 0.000000 0.687686
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.186403 0.000000 0.000000 0.982473
+120
+-0.186403 0.000000 0.000000 0.982473
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+21
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 -0.223106 0.974794
+6
+0.000000 0.037491 0.000000 0.999297
+12
+0.000000 0.000000 0.223106 0.974794
+18
+0.000000 0.389418 0.000000 0.921061
+24
+0.000000 0.000000 -0.223106 0.974794
+30
+0.000000 0.037491 0.000000 0.999297
+36
+0.000000 0.000000 0.223106 0.974794
+42
+0.000000 0.389418 0.000000 0.921061
+48
+0.000000 0.000000 -0.223106 0.974794
+54
+0.000000 0.037491 0.000000 0.999297
+60
+0.000000 0.000000 0.223106 0.974794
+66
+0.000000 0.389418 0.000000 0.921061
+72
+0.000000 0.000000 -0.223106 0.974794
+78
+0.000000 0.037491 0.000000 0.999297
+84
+0.000000 0.000000 0.223106 0.974794
+90
+0.000000 0.389418 0.000000 0.921061
+96
+0.000000 0.000000 -0.223106 0.974794
+102
+0.000000 0.037491 0.000000 0.999297
+108
+0.000000 0.000000 0.223106 0.974794
+114
+0.000000 0.389418 0.000000 0.921061
+120
+0.000000 0.000000 -0.223106 0.974794
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+21
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 -0.198669 0.980067
+6
+0.000000 -0.331129 0.000000 0.943585
+12
+0.000000 0.000000 0.271547 0.962425
+18
+0.000000 0.112263 0.000000 0.993679
+24
+0.000000 0.000000 -0.198669 0.980067
+30
+0.000000 -0.331129 0.000000 0.943585
+36
+0.000000 0.000000 0.271547 0.962425
+42
+0.000000 0.112263 0.000000 0.993679
+48
+0.000000 0.000000 -0.198669 0.980067
+54
+0.000000 -0.331129 0.000000 0.943585
+60
+0.000000 0.000000 0.271547 0.962425
+66
+0.000000 0.112263 0.000000 0.993679
+72
+0.000000 0.000000 -0.198669 0.980067
+78
+0.000000 -0.331129 0.000000 0.943585
+84
+0.000000 0.000000 0.271547 0.962425
+90
+0.000000 0.112263 0.000000 0.993679
+96
+0.000000 0.000000 -0.198669 0.980067
+102
+0.000000 -0.331129 0.000000 0.943585
+108
+0.000000 0.000000 0.271547 0.962425
+114
+0.000000 0.112263 0.000000 0.993679
+120
+0.000000 0.000000 -0.198669 0.980067
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+13
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.377875 0.000000 0.000000 0.925857
+10
+0.161786 0.000000 0.000000 0.986826
+20
+-0.377875 0.000000 0.000000 0.925857
+30
+0.161786 0.000000 0.000000 0.986826
+40
+-0.377875 0.000000 0.000000 0.925857
+50
+0.161786 0.000000 0.000000 0.986826
+60
+-0.377875 0.000000 0.000000 0.925857
+70
+0.161786 0.000000 0.000000 0.986826
+80
+-0.377875 0.000000 0.000000 0.925857
+90
+0.161786 0.000000 0.000000 0.986826
+100
+-0.377875 0.000000 0.000000 0.925857
+110
+0.161786 0.000000 0.000000 0.986826
+120
+-0.377875 0.000000 0.000000 0.925857
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+13
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.149438 0.000000 0.000000 0.988771
+10
+-0.247404 0.000000 0.000000 0.968912
+20
+0.149438 0.000000 0.000000 0.988771
+30
+-0.247404 0.000000 0.000000 0.968912
+40
+0.149438 0.000000 0.000000 0.988771
+50
+-0.247404 0.000000 0.000000 0.968912
+60
+0.149438 0.000000 0.000000 0.988771
+70
+-0.247404 0.000000 0.000000 0.968912
+80
+0.149438 0.000000 0.000000 0.988771
+90
+-0.247404 0.000000 0.000000 0.968912
+100
+0.149438 0.000000 0.000000 0.988771
+110
+-0.247404 0.000000 0.000000 0.968912
+120
+0.149438 0.000000 0.000000 0.988771
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.644218 0.000000 0.000000 0.764842
+40
+-0.644218 0.000000 0.000000 0.764842
+80
+-0.014551 0.825157 -0.564520 0.014856
+86
+-0.013396 0.780538 -0.624762 0.015905
+110
+0.004001 0.995130 0.087297 -0.045605
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+26
+0.000000 -0.605186 0.000000 0.796084
+40
+0.000000 -0.605186 0.000000 0.796084
+80
+0.000000 0.000000 0.000000 1.000000
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.006372 0.036946 0.999297
+40
+0.000000 0.006372 0.036946 0.999297
+80
+0.005310 0.706828 0.254535 0.659983
+86
+0.005310 0.706828 0.254535 0.659983
+110
+0.000000 -0.243625 -0.043075 0.968912
+120
+0.000000 0.000000 0.186403 0.982473
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.174108 0.984727
+40
+0.000000 0.000000 0.174108 0.984727
+80
+-0.086952 0.008724 -0.099451 0.991198
+86
+-0.086952 0.008724 -0.099451 0.991198
+110
+-0.078207 0.038992 0.258503 0.962050
+120
+-0.078207 0.038992 0.258503 0.962050
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.023297 0.135073 0.990562
+40
+0.000000 0.023297 0.135073 0.990562
+80
+-0.005732 -0.660456 -0.256647 0.705619
+86
+-0.005732 -0.660456 -0.256647 0.705619
+110
+0.000000 0.183556 0.032454 0.982473
+120
+0.000000 0.000000 -0.223106 0.974794
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.014853 -0.086117 0.996174
+40
+0.000000 -0.014853 -0.086117 0.996174
+110
+0.000000 0.000000 0.000000 1.000000
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.171575 0.029593 0.984727
+40
+0.000000 -0.171575 0.029593 0.984727
+110
+0.000000 0.000000 0.000000 1.000000
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+30
+-0.043861 0.478826 -0.023961 0.876486
+46
+0.149438 0.000000 0.000000 0.988771
+54
+0.149438 0.000000 0.000000 0.988771
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+30
+0.134665 -0.184644 0.025550 0.973201
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.223106 0.974794
+30
+-0.112018 -0.089906 -0.012805 0.989548
+46
+0.199823 -0.021216 0.400690 0.893906
+54
+0.199823 -0.021216 0.400690 0.893906
+60
+0.000000 0.000000 0.223106 0.974794
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 -0.223106 0.974794
+30
+-0.205749 -0.027705 0.371973 0.904730
+46
+-0.008090 -0.605458 -0.318558 0.729298
+54
+-0.008090 -0.605458 -0.318558 0.729298
+60
+0.000000 0.000000 -0.223106 0.974794
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.283556 0.000000 0.000000 0.958956
+30
+-0.686365 -0.077543 -0.081179 0.718540
+36
+-0.490358 0.000000 0.000000 0.871521
+60
+-0.283556 0.000000 0.000000 0.958956
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+36
+0.000000 0.000000 0.000000 1.000000
+46
+0.446187 0.000000 0.000000 0.894940
+54
+0.387463 0.000000 0.000000 0.921885
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+14
+0.023689 -0.319209 0.007982 0.947355
+26
+0.210904 0.000000 0.000000 0.977507
+60
+0.210904 0.000000 0.000000 0.977507
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+14
+0.000000 0.319309 0.000000 0.947651
+26
+-0.049979 0.000000 0.000000 0.998750
+60
+-0.049979 0.000000 0.000000 0.998750
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+14
+0.000000 0.000000 0.247404 0.968912
+26
+-0.215970 0.646520 -0.091223 0.725980
+60
+-0.215970 0.646520 -0.091223 0.725980
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+14
+-0.006616 -0.181527 0.312471 0.932398
+26
+0.504786 -0.565732 0.416979 0.501266
+60
+0.504786 -0.565732 0.416979 0.501266
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+14
+-0.106655 -0.533274 -0.000000 0.839192
+26
+0.128765 0.211254 -0.332238 0.910170
+60
+0.128765 0.211254 -0.332238 0.910170
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+14
+0.221001 0.133612 -0.030581 0.965594
+26
+-0.554282 0.000000 0.000000 0.832329
+60
+-0.554282 0.000000 0.000000 0.832329
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+14
+-0.184863 -0.289629 0.072767 0.936293
+26
+0.024997 0.000000 0.000000 0.999687
+60
+0.024997 0.000000 0.000000 0.999687
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.062147 0.000000 -0.006236 0.998048
+20
+0.000000 0.354613 0.000000 0.935013
+26
+0.023373 0.354502 -0.008864 0.934721
+40
+0.062147 0.000000 -0.006236 0.998048
+70
+0.000000 0.000000 0.000000 1.000000
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+20
+0.000000 -0.377875 0.000000 0.925857
+26
+0.069374 -0.376813 0.028314 0.923254
+40
+-0.008084 -0.001609 -0.025021 0.999653
+70
+-0.008084 -0.001609 -0.025021 0.999653
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.295520 0.955337
+20
+-0.026497 0.759009 -0.105248 0.641970
+26
+0.042000 0.754192 0.177904 0.630699
+40
+-0.015307 -0.234775 -0.252211 0.938635
+70
+-0.072915 -0.223690 -0.012149 0.971853
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+7
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.116864 0.057911 0.646675 0.751533
+20
+0.189781 0.346441 0.511895 0.762840
+26
+0.437649 -0.124128 0.326369 0.828576
+30
+0.708922 -0.587075 -0.274537 0.278211
+40
+-0.573614 0.746315 -0.079198 -0.328188
+70
+-0.573614 0.746315 -0.079198 -0.328188
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 -0.307439 0.951568
+20
+-0.028168 0.159315 -0.171814 0.971754
+80
+-0.028168 0.159315 -0.171814 0.971754
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.342871 -0.004268 0.000266 0.939373
+20
+-0.148704 0.000000 -0.131745 0.980067
+26
+-0.148704 0.000000 -0.131745 0.980067
+40
+-0.342871 -0.004268 0.000266 0.939373
+70
+-0.342871 -0.004268 0.000266 0.939373
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.049975 0.000622 -0.000039 0.998750
+20
+0.102595 0.000000 0.090894 0.990562
+26
+0.102595 0.000000 0.090894 0.990562
+40
+0.049975 0.000622 -0.000039 0.998750
+70
+0.049975 0.000622 -0.000039 0.998750
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+7
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.099833 0.000000 0.995004
+16
+-0.077002 0.115734 -0.115734 0.983505
+22
+0.006776 0.039007 -0.273483 0.961062
+32
+0.246168 -0.096730 0.024699 0.964072
+46
+0.173238 -0.098309 0.017382 0.979807
+60
+0.000000 0.000000 0.000000 1.000000
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.087388 0.000000 0.996174
+16
+0.074222 -0.136682 0.010270 0.987777
+32
+-0.000000 0.124675 0.000000 0.992198
+46
+-0.000000 0.124675 0.000000 0.992198
+60
+0.000000 0.000000 0.000000 1.000000
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+9
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.000280 0.012497 -0.174095 0.984650
+6
+0.027270 -0.207458 -0.272500 0.939128
+16
+0.065995 -0.275769 -0.362365 0.887856
+22
+-0.265847 0.551700 -0.127346 0.780215
+28
+-0.133994 0.610604 0.344953 0.700155
+32
+0.028102 -0.024817 0.434660 0.899814
+46
+0.028102 -0.024817 0.434660 0.899814
+60
+-0.038575 0.531906 0.460043 0.709893
+80
+0.000000 0.000000 0.149438 0.988771
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+10
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.657494 0.661124 -0.094873 -0.348734
+16
+-0.604836 -0.234690 0.506502 0.567935
+22
+-0.251890 -0.756775 0.072639 0.598804
+24
+0.041477 -0.678695 -0.002869 0.733243
+26
+0.339728 -0.720287 -0.037353 0.603636
+28
+-0.488458 0.758698 -0.032765 -0.429782
+32
+-0.399714 0.860364 0.097395 -0.300861
+46
+-0.399714 0.860364 0.097395 -0.300861
+60
+0.432687 0.038546 -0.049090 0.899381
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.117392 -0.203894 -0.310346 0.921049
+16
+0.180954 0.904772 -0.000000 -0.385543
+32
+0.053255 0.266274 0.000000 0.962425
+46
+0.053255 0.266274 0.000000 0.962425
+60
+0.000000 0.000000 -0.210904 0.977507
+80
+0.000000 0.000000 -0.149438 0.988771
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.170638 0.000000 0.034590 0.984727
+16
+0.084672 -0.002695 0.021452 0.996174
+32
+0.222125 -0.004319 -0.008941 0.974968
+46
+0.222125 -0.004319 -0.008941 0.974968
+60
+-0.223106 0.000000 0.000000 0.974794
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.170638 0.000000 -0.034590 0.984727
+16
+-0.492752 -0.139029 0.233256 0.826715
+32
+-0.494673 0.107566 0.190388 0.841119
+46
+-0.388761 0.070390 0.176350 0.901560
+60
+0.099833 0.000000 0.000000 0.995004
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+9
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.057828 -0.377137 0.023602 0.924049
+8
+0.000000 -0.198669 0.000000 0.980067
+16
+0.129950 0.280547 -0.043292 0.950017
+18
+0.129950 0.280547 -0.043292 0.950017
+28
+0.112181 0.581214 0.000934 0.805981
+38
+0.000000 -0.161786 0.000000 0.986826
+50
+0.000000 -0.295520 0.000000 0.955337
+60
+0.000000 -0.149438 0.000000 0.988771
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+9
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.110295 0.329036 -0.020926 0.937621
+8
+0.000000 0.210904 0.000000 0.977507
+16
+0.105930 -0.323681 -0.069837 0.937621
+18
+0.105930 -0.323681 -0.069837 0.937621
+30
+0.184008 -0.298222 -0.144762 0.925337
+38
+0.000000 0.137067 0.000000 0.990562
+50
+0.000000 0.331129 0.000000 0.943585
+60
+0.000000 0.174108 0.000000 0.984727
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+10
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.010748 -0.389270 -0.205495 0.897845
+8
+-0.010748 -0.389270 -0.205495 0.897845
+10
+0.057537 -0.115577 -0.158801 0.978833
+12
+0.148814 0.196677 0.097558 0.964186
+16
+0.201461 0.780500 0.257415 0.532889
+28
+0.201461 0.780500 0.257415 0.532889
+38
+0.035825 -0.079708 -0.222253 0.971065
+50
+0.017138 -0.085691 0.000000 0.996174
+60
+0.017138 -0.085691 0.000000 0.996174
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+12
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.270732 -0.118474 0.382995 0.875204
+8
+-0.270732 -0.118474 0.382995 0.875204
+10
+-0.068208 -0.045771 0.603721 0.792953
+12
+0.022923 -0.087034 0.475182 0.875272
+16
+0.222522 -0.623851 0.122651 0.739088
+18
+0.222522 -0.623851 0.122651 0.739088
+28
+0.257292 -0.598441 -0.055489 0.756697
+30
+-0.146472 0.966395 0.159424 -0.138602
+38
+0.287589 -0.657185 0.279310 0.638268
+50
+0.000000 0.000000 0.283556 0.958956
+60
+0.000000 0.000000 0.283556 0.958956
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.009929 -0.563937 0.048983 0.824304
+8
+-0.009929 -0.563937 0.048983 0.824304
+16
+0.333720 -0.015791 -0.419029 0.844273
+28
+0.333720 -0.015791 -0.419029 0.844273
+38
+0.125188 0.047054 -0.272317 0.952868
+80
+0.125188 0.047054 -0.272317 0.952868
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+8
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.091953 0.000000 -0.038877 0.995004
+8
+0.091953 0.000000 -0.038877 0.995004
+16
+-0.259496 0.000000 0.000000 0.965744
+18
+-0.259496 0.000000 0.000000 0.965744
+28
+-0.107411 -0.042682 -0.310303 0.943585
+38
+0.222957 0.000000 -0.075125 0.971929
+60
+0.222957 0.000000 -0.075125 0.971929
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+9
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.318804 -0.014661 0.231876 0.918903
+8
+-0.149015 0.000000 0.063002 0.986826
+16
+0.087388 -0.000000 0.000000 0.996174
+18
+0.087388 -0.000000 0.000000 0.996174
+28
+0.004055 0.001611 0.011713 0.999922
+38
+-0.331129 0.000000 0.000000 0.943585
+50
+-0.318687 0.256228 0.089917 0.908130
+60
+-0.318687 0.256228 0.089917 0.908130
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+11
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.061758 -0.149146 0.009334 0.986840
+8
+0.044255 0.942009 -0.102256 -0.316551
+14
+0.071356 0.941250 -0.054705 0.325522
+24
+0.000000 -0.319309 0.000000 0.947651
+30
+0.000000 -0.149438 0.000000 0.988771
+36
+-0.049839 0.003745 -0.074836 0.995943
+44
+0.000000 0.000000 -0.186403 0.982473
+52
+0.215686 -0.094414 -0.065829 0.969656
+60
+0.207683 -0.170192 0.036720 0.962577
+80
+0.231680 -0.169221 0.040963 0.957084
+100
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+100
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+8
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.185472 -0.098084 -0.018609 0.977565
+24
+0.000000 0.319309 0.000000 0.947651
+30
+-0.013046 0.173619 -0.073785 0.981958
+36
+0.000000 0.000000 -0.112263 0.993679
+44
+-0.015813 0.056046 -0.271086 0.960792
+60
+0.000000 0.174108 0.000000 0.984727
+80
+0.000000 0.174108 0.000000 0.984727
+100
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+100
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+11
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.010430 0.377731 0.206564 0.902520
+24
+-0.035537 -0.145151 -0.037070 0.988076
+30
+-0.011585 -0.148988 -0.196439 0.969061
+36
+-0.055428 -0.504424 -0.340995 0.791332
+44
+0.062106 0.372736 -0.328321 0.865688
+48
+-0.142382 0.711910 0.000000 0.687686
+50
+-0.014059 0.402730 0.375163 0.834783
+52
+0.000000 0.000000 0.423676 0.905814
+60
+0.124507 -0.268011 0.224765 0.928519
+80
+0.124507 -0.268011 0.224765 0.928519
+100
+0.000000 0.000000 0.198669 0.980067
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+100
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+10
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.189063 -0.574800 0.154449 0.781029
+24
+-0.577773 0.744875 -0.024331 -0.332788
+30
+0.368639 -0.251309 0.445555 0.776163
+36
+-0.474134 -0.084348 0.696362 0.532131
+44
+-0.261862 -0.377433 0.300287 0.835943
+48
+0.304035 -0.665347 0.222785 0.644393
+50
+0.576628 -0.488890 -0.061249 0.651717
+60
+0.445686 -0.693213 0.118189 0.553941
+80
+0.445686 -0.693213 0.118189 0.553941
+100
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+100
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+8
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.071647 0.874936 0.277604 -0.390243
+8
+0.179995 0.899976 0.000000 -0.397046
+14
+0.186870 0.934348 -0.000000 -0.303436
+24
+-0.017108 -0.490059 -0.141000 0.860040
+30
+-0.017108 -0.490059 -0.141000 0.860040
+60
+0.102547 -0.404212 -0.330743 0.846585
+80
+0.102547 -0.404212 -0.330743 0.846585
+100
+0.000000 0.000000 -0.174108 0.984727
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+100
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+8
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.047403 -0.006007 0.072681 0.996210
+8
+-0.036809 -0.015129 0.077012 0.996236
+14
+-0.073262 -0.020014 0.119638 0.989909
+24
+0.079476 0.000000 -0.060418 0.995004
+30
+0.079476 0.000000 -0.060418 0.995004
+60
+-0.026824 -0.028502 -0.105950 0.993601
+80
+-0.026824 -0.028502 -0.105950 0.993601
+100
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+100
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+7
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.166332 0.006415 0.051051 0.984727
+24
+-0.196954 0.000000 0.149726 0.968912
+30
+-0.196954 0.000000 0.149726 0.968912
+36
+-0.193946 0.034291 0.316134 0.928045
+60
+-0.382101 0.047247 0.241162 0.890846
+80
+-0.382101 0.047247 0.241162 0.890846
+100
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+100
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+12
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.207683 -0.170192 0.036720 0.962577
+10
+-0.041942 0.543155 0.027180 0.838144
+20
+-0.045533 0.662307 0.020607 0.747564
+34
+0.089895 0.099335 0.043424 0.990033
+38
+0.089895 0.099335 0.043424 0.990033
+46
+0.207683 -0.170192 0.036720 0.962577
+54
+-0.014444 0.647860 0.290368 0.704099
+66
+-0.064481 0.970425 -0.231384 0.024081
+80
+-0.063197 0.980776 -0.182593 0.027273
+90
+-0.011383 -0.351852 0.065558 0.933688
+100
+0.182063 -0.019136 -0.064710 0.980969
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+9
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.174108 0.000000 0.984727
+10
+0.000000 -0.511990 0.000000 0.858991
+20
+0.000000 -0.511990 0.000000 0.858991
+34
+-0.000000 -0.087388 0.000000 0.996174
+38
+-0.000000 -0.087388 0.000000 0.996174
+46
+0.000000 0.174108 0.000000 0.984727
+66
+-0.002854 0.039413 0.085268 0.995574
+80
+-0.002854 0.039413 0.085268 0.995574
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+8
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.124507 -0.268011 0.224765 0.928519
+10
+-0.160937 0.804687 0.000000 0.571470
+20
+-0.160937 0.804687 0.000000 0.571470
+34
+0.124507 -0.268011 0.224765 0.928519
+46
+0.124507 -0.268011 0.224765 0.928519
+66
+-0.313026 0.673812 0.157474 0.650534
+80
+-0.313026 0.673812 0.157474 0.650534
+120
+0.000000 0.000000 0.112263 0.993679
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+16
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.445686 -0.693213 0.118189 0.553941
+2
+0.132569 -0.051189 0.417827 0.897344
+4
+-0.026355 0.166650 0.485329 0.857898
+10
+0.085653 -0.107009 0.618999 0.773338
+20
+0.085653 -0.107009 0.618999 0.773338
+24
+-0.524091 0.827383 -0.130596 -0.153983
+26
+-0.521966 0.852622 0.014232 -0.019616
+34
+0.445686 -0.693213 0.118189 0.553941
+38
+0.445686 -0.693213 0.118189 0.553941
+46
+0.069323 -0.133362 0.618028 0.771654
+50
+0.091565 -0.107751 0.388014 0.910742
+56
+0.059329 -0.110731 0.533160 0.836636
+60
+-0.138677 -0.185116 0.417577 0.878710
+66
+0.297330 -0.688997 0.340076 0.566769
+80
+-0.008611 -0.128844 0.451643 0.882804
+120
+0.000000 0.000000 0.235274 0.971929
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+9
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.102547 -0.404212 -0.330743 0.846585
+10
+0.057956 0.289781 0.000000 0.955336
+20
+0.057956 0.289781 0.000000 0.955336
+34
+-0.059394 -0.627413 -0.370849 0.682126
+38
+-0.059394 -0.627413 -0.370849 0.682126
+46
+0.102547 -0.404212 -0.330743 0.846585
+66
+0.096167 0.480835 0.000000 0.871521
+80
+0.096167 0.480835 0.000000 0.871521
+120
+0.000000 0.000000 -0.099833 0.995004
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+8
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.026824 -0.028502 -0.105950 0.993601
+10
+-0.076143 0.016986 -0.169292 0.982473
+38
+-0.076143 0.016986 -0.169292 0.982473
+46
+-0.704816 -0.017097 -0.004048 0.709173
+66
+-0.511990 -0.000000 0.000000 0.858991
+80
+-0.468825 0.006854 -0.000370 0.883264
+90
+-0.667801 -0.000000 0.000000 0.744340
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+9
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.382101 0.047247 0.241162 0.890846
+10
+0.035697 -0.007963 0.079366 0.996174
+38
+0.035697 -0.007963 0.079366 0.996174
+46
+0.000000 0.000000 0.000000 1.000000
+54
+0.100877 0.067102 -0.122376 0.985061
+66
+-0.113126 0.000000 -0.077394 0.990562
+80
+-0.113126 0.000000 -0.077394 0.990562
+94
+0.000000 0.000000 0.000000 1.000000
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+10
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.069374 -0.376813 -0.028314 0.923254
+6
+0.209709 -0.274622 -0.105689 0.932435
+14
+0.277235 0.379328 -0.061496 0.880607
+22
+0.206657 0.776702 -0.194766 0.562222
+30
+0.210852 0.887263 0.045746 -0.407692
+38
+0.203040 0.864830 -0.112190 -0.445262
+46
+-0.178568 -0.766674 0.148071 0.598665
+54
+0.329272 -0.579995 -0.078506 0.740961
+74
+0.365893 -0.575347 -0.107395 0.723578
+80
+0.365893 -0.575347 -0.107395 0.723578
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.019119 0.394277 -0.004435 0.918782
+14
+0.013275 -0.193373 -0.014455 0.980929
+38
+0.199655 0.504499 -0.110662 0.832690
+46
+0.199655 0.504499 -0.110662 0.832690
+54
+-0.102011 0.570429 0.071677 0.811829
+80
+-0.102011 0.570429 0.071677 0.811829
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.050891 -0.254456 -0.000000 0.965744
+6
+0.028460 -0.257930 0.084395 0.962050
+14
+-0.162614 0.400076 0.070011 0.899219
+30
+0.028460 -0.257930 0.084395 0.962050
+54
+-0.238669 0.811604 0.122274 0.519024
+80
+-0.238669 0.811604 0.122274 0.519024
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.673583 0.367980 -0.307310 0.562528
+6
+0.583517 0.483033 -0.380514 0.530467
+14
+0.733008 0.221983 -0.156827 0.623561
+30
+0.583517 0.483033 -0.380514 0.530467
+54
+0.709023 -0.166358 0.170012 0.663858
+80
+0.709023 -0.166358 0.170012 0.663858
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.002096 0.911511 0.183284 -0.368171
+6
+0.138287 0.900963 0.126208 -0.391426
+14
+-0.119285 -0.802255 -0.059466 0.581912
+30
+0.138287 0.900963 0.126208 -0.391426
+54
+-0.136417 -0.582152 0.254824 0.759970
+80
+-0.136417 -0.582152 0.254824 0.759970
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+80
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+10
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.083855 -0.030989 -0.032242 0.995474
+6
+-0.003250 -0.015373 -0.089255 0.995885
+14
+-0.274406 -0.124082 -0.246884 0.921061
+22
+-0.672440 -0.000000 0.000000 0.740152
+30
+0.359574 -0.003843 -0.307415 0.881015
+38
+-0.222939 -0.471709 -0.443639 0.728679
+46
+-0.232720 -0.304378 -0.440242 0.812024
+54
+-0.256833 -0.073703 -0.344478 0.899967
+64
+-0.306488 -0.090590 -0.180520 0.930200
+80
+-0.306488 -0.090590 -0.180520 0.930200
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+11
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.336640 -0.003901 0.416967 0.844273
+6
+-0.327489 -0.005004 0.411366 0.850590
+14
+-0.158950 0.030157 0.183948 0.969530
+22
+-0.458880 0.101180 0.433374 0.769012
+30
+-0.311013 0.212348 0.443605 0.813262
+38
+-0.630543 -0.009929 0.276511 0.725161
+46
+-0.715216 -0.057575 0.244139 0.652340
+54
+-0.214638 0.181052 0.621113 0.731689
+64
+-0.395160 0.224230 0.647439 0.611875
+74
+-0.410910 0.224073 0.689970 0.552164
+80
+-0.410910 0.224073 0.689970 0.552164
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+80
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.050652 -0.583955 0.036545 0.809380
+6
+-0.111156 -0.579575 0.080198 0.803309
+10
+0.076825 -0.561383 -0.062203 0.821631
+16
+0.162128 -0.509789 -0.133101 0.834334
+40
+0.182934 -0.506303 -0.145803 0.830021
+50
+0.076825 -0.561383 -0.062203 0.821631
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+50
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.154543 0.469448 -0.101898 0.863338
+6
+0.154543 0.469448 -0.101898 0.863338
+16
+-0.009095 0.480214 -0.012605 0.877013
+50
+-0.009095 0.480214 -0.012605 0.877013
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+50
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.067248 0.336239 0.000000 0.939373
+6
+-0.067248 0.336239 0.000000 0.939373
+16
+-0.094132 0.852010 0.197198 0.475742
+50
+-0.094132 0.852010 0.197198 0.475742
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+50
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.861819 0.030327 0.101664 0.495997
+10
+0.517442 -0.434960 0.543810 0.497327
+16
+0.582168 -0.280124 0.311293 0.696927
+40
+0.582168 -0.280124 0.311293 0.696927
+50
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+50
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.080817 0.886068 0.202093 -0.409282
+6
+0.080817 0.886068 0.202093 -0.409282
+16
+-0.147010 -0.732533 -0.035853 0.663700
+50
+-0.147010 -0.732533 -0.035853 0.663700
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+50
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+50
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+50
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.053324 -0.003889 -0.152696 0.986826
+4
+0.053324 -0.003889 -0.152696 0.986826
+16
+-0.017498 -0.008046 0.033528 0.999252
+50
+-0.017498 -0.008046 0.033528 0.999252
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+50
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.124546 0.009083 0.356644 0.925857
+4
+-0.124546 0.009083 0.356644 0.925857
+16
+-0.167121 0.008792 0.460792 0.871587
+50
+-0.167121 0.008792 0.460792 0.871587
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+50
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+6
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.000000 -0.783327 -0.000000 0.621610
+8
+-0.000000 -0.681639 -0.000000 0.731689
+14
+0.071323 0.696220 -0.069855 0.710852
+18
+0.080203 0.695293 -0.078552 0.709905
+24
+0.088194 0.783131 -0.038617 0.614358
+40
+0.090434 0.819975 -0.033033 0.564245
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.184243 0.687195 0.040675 0.701544
+8
+0.139693 0.607588 0.078498 0.777921
+14
+0.154735 -0.224892 0.010758 0.961959
+24
+0.070135 -0.400806 0.063106 0.911292
+40
+0.070135 -0.400806 0.063106 0.911292
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.010517 -0.052256 0.134649 0.989459
+8
+0.004069 -0.053148 -0.139095 0.988843
+14
+-0.052414 0.463780 0.286803 0.836603
+24
+-0.052372 0.546590 0.296380 0.781445
+40
+-0.052372 0.546590 0.296380 0.781445
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.448516 -0.537063 0.548349 0.457942
+14
+0.332877 -0.615464 0.628398 0.339873
+40
+0.332877 -0.615464 0.628398 0.339873
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.046764 0.879542 0.309559 -0.358319
+8
+0.129376 -0.649244 -0.217373 0.717282
+14
+-0.084706 -0.656568 0.023041 0.749142
+24
+-0.085906 -0.582977 0.060144 0.805693
+40
+-0.085906 -0.582977 0.060144 0.805693
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+40
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.032620 -0.014901 -0.148511 0.988260
+24
+-0.166422 0.087612 -0.116922 0.975170
+40
+-0.166422 0.087612 -0.116922 0.975170
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.098137 -0.038043 0.191234 0.975885
+24
+0.086926 0.098712 0.121555 0.983831
+40
+0.086926 0.098712 0.121555 0.983831
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.088194 0.783131 -0.038617 0.614358
+6
+0.060067 -0.334523 0.037648 0.939718
+10
+-0.008012 -0.767484 0.009594 0.640947
+20
+-0.044788 -0.766403 0.024024 0.640346
+40
+-0.010574 -0.533261 0.006666 0.845858
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.070135 -0.400806 0.063106 0.911292
+10
+-0.063385 0.531803 0.039960 0.843546
+20
+-0.063385 0.531803 0.039960 0.843546
+40
+-0.000000 0.533303 0.000000 0.845924
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.052372 0.546590 0.296380 0.781445
+10
+-0.031729 0.158644 0.000000 0.986826
+40
+-0.031729 0.158644 0.000000 0.986826
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.714133 0.113825 -0.132052 0.677953
+6
+0.813002 0.283298 -0.222440 0.457483
+10
+0.599177 0.325812 -0.252984 0.686172
+40
+0.679459 0.287761 -0.323352 0.592430
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.085906 -0.582977 0.060144 0.805693
+6
+0.195369 -0.736746 -0.224447 0.607174
+10
+-0.117664 -0.845666 0.008506 0.520512
+20
+-0.117664 -0.845666 0.008506 0.520512
+40
+0.126959 -0.844321 -0.139438 0.501560
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+40
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.166422 0.087612 -0.116922 0.975170
+10
+0.069784 0.000000 -0.087939 0.993679
+40
+0.069784 0.000000 -0.087939 0.993679
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.086926 0.098712 0.121555 0.983831
+10
+-0.069784 -0.000000 0.087939 0.993679
+20
+-0.068214 0.014718 0.295532 0.952781
+40
+-0.069784 -0.000000 0.087939 0.993679
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.009560 -0.644167 0.008053 0.764782
+10
+-0.033759 -0.434660 0.016307 0.899814
+16
+0.238929 -0.557042 -0.064200 0.792777
+50
+0.235422 -0.516724 -0.076061 0.819627
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.000000 0.533303 0.000000 0.845924
+10
+0.000000 0.412321 0.000000 0.911039
+16
+-0.145345 0.553903 -0.032824 0.819139
+50
+-0.102687 0.546575 -0.037157 0.830259
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.031729 0.158644 0.000000 0.986826
+10
+-0.062614 0.149178 -0.196052 0.967155
+16
+0.038651 0.698835 0.068281 0.710966
+50
+0.038651 0.698835 0.068281 0.710966
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.622884 0.304774 -0.277893 0.664759
+10
+0.697776 0.425764 -0.096043 0.567987
+16
+0.632152 -0.046333 -0.011650 0.773371
+50
+0.603861 -0.117176 -0.109113 0.780843
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.117664 -0.845666 0.008506 0.520512
+10
+-0.058878 0.920123 0.097170 -0.374786
+16
+0.007817 -0.592355 0.081743 0.801481
+50
+0.007817 -0.592355 0.081743 0.801481
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.069784 0.000000 -0.087939 0.993679
+60
+0.069784 0.000000 -0.087939 0.993679
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.268289 -0.067661 0.395499 0.875799
+10
+-0.198486 0.000000 0.250123 0.947651
+16
+-0.337893 0.002368 0.409665 0.847347
+50
+-0.383671 0.018486 0.395224 0.834418
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.342898 0.000000 0.939373
+120
+0.000000 0.342898 0.000000 0.939373
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.319309 0.000000 0.947651
+120
+0.000000 -0.319309 0.000000 0.947651
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.029307 0.146536 0.000000 0.988771
+60
+-0.018245 0.148320 0.074088 0.985991
+120
+-0.029307 0.146536 0.000000 0.988771
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.014188 -0.456400 -0.043539 0.888596
+120
+-0.014188 -0.456400 -0.043539 0.888596
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+4
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.270537 -0.483775 -0.255890 0.792018
+40
+-0.095083 -0.546066 -0.503714 0.662604
+90
+0.177461 -0.248003 -0.443488 0.842805
+120
+-0.270537 -0.483775 -0.255890 0.792018
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+120
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+120
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.342898 0.000000 0.939373
+10
+-0.084395 -0.258503 -0.022677 0.962050
+26
+-0.132372 -0.257047 -0.035568 0.956629
+42
+0.086544 0.007086 -0.043223 0.995285
+60
+0.000000 0.342898 0.000000 0.939373
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.319309 0.000000 0.947651
+10
+0.000000 0.247404 0.000000 0.968912
+26
+0.000000 0.247404 0.000000 0.968912
+42
+0.000000 0.000000 0.000000 1.000000
+60
+0.000000 -0.319309 0.000000 0.947651
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.029307 0.146536 0.000000 0.988771
+10
+0.003483 -0.099773 -0.160978 0.981896
+26
+0.003483 -0.099773 -0.160978 0.981896
+42
+-0.110735 0.553677 0.000000 0.825336
+60
+-0.029307 0.146536 0.000000 0.988771
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.014188 -0.456400 -0.043539 0.888596
+10
+0.009545 0.050442 -0.044787 0.997677
+60
+-0.014188 -0.456400 -0.043539 0.888596
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.270537 -0.483775 -0.255890 0.792018
+10
+0.010488 0.197362 -0.006880 0.980250
+26
+0.010488 0.197362 -0.006880 0.980250
+42
+-0.105442 -0.156758 -0.314253 0.930352
+60
+-0.270537 -0.483775 -0.255890 0.792018
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+10
+0.234976 0.023697 -0.134024 0.962425
+26
+0.234976 0.023697 -0.134024 0.962425
+42
+-0.075619 -0.007626 0.043131 0.996174
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+5
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+10
+-0.107884 -0.010880 0.061534 0.992198
+26
+-0.107884 -0.010880 0.061534 0.992198
+42
+-0.266034 -0.026829 0.151739 0.951568
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.342898 0.000000 0.939373
+20
+0.058673 0.342228 -0.021417 0.937539
+40
+0.000000 0.342898 0.000000 0.939373
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.319309 0.000000 0.947651
+40
+0.000000 -0.319309 0.000000 0.947651
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.029307 0.146536 0.000000 0.988771
+40
+-0.029307 0.146536 0.000000 0.988771
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.014188 -0.456400 -0.043539 0.888596
+40
+-0.014188 -0.456400 -0.043539 0.888596
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.270537 -0.483775 -0.255890 0.792018
+40
+-0.270537 -0.483775 -0.255890 0.792018
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+40
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.235274 0.000000 -0.000000 0.971929
+20
+0.174108 0.000000 0.000000 0.984727
+40
+-0.235274 0.000000 -0.000000 0.971929
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.174108 0.000000 0.000000 0.984727
+20
+-0.247404 0.000000 -0.000000 0.968912
+40
+0.174108 0.000000 0.000000 0.984727
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.307439 0.000000 0.951568
+20
+0.023787 -0.307342 0.007685 0.951271
+40
+0.000000 -0.307439 0.000000 0.951568
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.319309 0.000000 0.947651
+40
+0.000000 0.319309 0.000000 0.947651
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.145709 0.728544 -0.000000 0.669322
+40
+-0.145709 0.728544 -0.000000 0.669322
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.014188 -0.456400 -0.043539 0.888596
+40
+-0.014188 -0.456400 -0.043539 0.888596
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.155850 -0.278691 -0.291344 0.901754
+40
+-0.155850 -0.278691 -0.291344 0.901754
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+40
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.235274 0.000000 -0.000000 0.971929
+20
+0.174108 0.000000 0.000000 0.984727
+40
+-0.235274 0.000000 -0.000000 0.971929
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.174108 0.000000 0.000000 0.984727
+20
+-0.247404 0.000000 -0.000000 0.968912
+40
+0.174108 0.000000 0.000000 0.984727
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+40
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.342898 0.000000 0.939373
+30
+0.058673 0.342228 -0.021417 0.937539
+60
+0.000000 0.342898 0.000000 0.939373
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.319309 0.000000 0.947651
+60
+0.000000 -0.319309 0.000000 0.947651
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.029307 0.146536 0.000000 0.988771
+60
+-0.029307 0.146536 0.000000 0.988771
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.014188 -0.456400 -0.043539 0.888596
+60
+-0.014188 -0.456400 -0.043539 0.888596
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.270537 -0.483775 -0.255890 0.792018
+60
+-0.270537 -0.483775 -0.255890 0.792018
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.235274 0.000000 -0.000000 0.971929
+30
+0.174108 0.000000 0.000000 0.984727
+60
+-0.235274 0.000000 -0.000000 0.971929
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.174108 0.000000 0.000000 0.984727
+30
+-0.247404 0.000000 -0.000000 0.968912
+60
+0.174108 0.000000 0.000000 0.984727
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneFrameCount
+12
+
+# BoneNo0 センター
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 -0.307439 0.000000 0.951568
+30
+0.023787 -0.307342 0.007685 0.951271
+60
+0.000000 -0.307439 0.000000 0.951568
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo1 首
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.319309 0.000000 0.947651
+60
+0.000000 0.319309 0.000000 0.947651
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo2 頭
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo3 右肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.145709 0.728544 -0.000000 0.669322
+60
+-0.145709 0.728544 -0.000000 0.669322
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo4 右手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.014188 -0.456400 -0.043539 0.888596
+60
+-0.014188 -0.456400 -0.043539 0.888596
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo5 左肩
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.155850 -0.278691 -0.291344 0.901754
+60
+-0.155850 -0.278691 -0.291344 0.901754
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo6 左手
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+2
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.000000 0.000000 0.000000 1.000000
+60
+0.000000 0.000000 0.000000 1.000000
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo7 右股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+-0.235274 0.000000 -0.000000 0.971929
+30
+0.174108 0.000000 0.000000 0.984727
+60
+-0.235274 0.000000 -0.000000 0.971929
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo8 右足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo9 左股
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+3
+
+# PositionKeyCount
+2
+
+# MatrixKeyCount
+0
+
+# RotateKey
+0
+0.174108 0.000000 0.000000 0.984727
+30
+-0.247404 0.000000 -0.000000 0.968912
+60
+0.174108 0.000000 0.000000 0.984727
+
+# PositionKey
+0
+0.000000 0.000000 0.000000
+60
+0.000000 0.000000 0.000000
+
+# BoneNo10 左足
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0
+
+# BoneNo11 改造
+
+# KeyFrameFlag
+00000000
+
+# ScaleKeyCount
+0
+
+# RotateKeyCount
+0
+
+# PositionKeyCount
+0
+
+# MatrixKeyCount
+0

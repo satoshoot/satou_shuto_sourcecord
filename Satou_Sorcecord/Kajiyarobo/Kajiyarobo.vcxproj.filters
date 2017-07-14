@@ -1,0 +1,1382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Base\Actor\Actor\ActorManager\ActorManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Actor\Actor.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\BoundingSphere\BoundingSphere.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Field\Field.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\World\World.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\GameFrame\GameFrame.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Wepon\WeponParameter\WeponParameter.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Wepon\Wepon\Wepon.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Effect\Explosion\Fire\Fire.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Effect\Explosion\Explotion.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Effect\Slash\Cut\Cut.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Effect\Slash\Slash.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Scene\GamePlayScene\GamePlayScene.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Scene\GameTitleScene\GameTitleScene.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Scene\NullScene\NullScene.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Scene\SceneManager\SceneManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\GameManager\GameManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\Kremlin.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Enemy\EnemyDog\DogEnemy.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Boss\BossHP\BossHP.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Boss\BossBody\BossBody.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Boss\BossBody\BossHitID.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Effect\SpeedBulletEffect\SpeedBulletEffect.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Effect\SpeedBulletEffect\Laser\Laser.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Effect\Particle\Particle.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Camera\Camera.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Light\Light.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Camera\AbstractCamera\AbstractCamera.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Camera\CameraState\Camera_PlayerNormal\Camera_PlayerNormal.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Camera\CameraState\Camera_PlayerLockon\Camera_PlayerLockon.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Camera\TargetCursor\TargetCursor.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuManager\MenuManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuClose\MenuClose.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuSelect\MenuSelect.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\AbstractMenu\AbstractMenu.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\Menu\Menu.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuCursor\MenuCursor.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuMake\MenuMake.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuSwordSelect\MenuSwordSelect.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\SetMenuResult\SetMenuResult.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuPutWepon\MenuPutWepon.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuMakeTime\MenuMakeTime.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuChange\MenuChange.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuGunSelect\MenuGunSelect.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuSpearSelect\MenuSpearSelect.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Boss\AbstractBoss\AbstractBoss.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_LeftRotate\Kremlin_LeftRotate.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Look\Kremlin_Look.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_RightRotate\Kremlin_RightRotate.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Roar\Kremlin_Roar.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\AttackID\AttackID.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\DogShot\DogShot.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\PlayerAttack\PlayerAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\PlayerBullet\RapidBullet\RapidBullet.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\PlayerBullet\SpeedBullet\SpeedBullet.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\EnemyAttack\EnemyAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Fire\Kremlim_Fire.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Punch\Kremlin_Punch.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\EnemyAttack\EnemyBodyAttack\EnemyBodyAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Shoot\Kremlin_Shoot.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\EnemyBullet\EnemyMeteorBullet\EnemyMeteorBullet.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Rush\Kremlin_Rush.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Walk\Kremlin_Walk.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Wait\Kremlin_Wait.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Down\Kremlin_Down.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_KnockBack\Kremlin_KnockBack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Jump\Kremlin_Jump.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Landing\Kremlin_Landing.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Dush\Kremlin_Dush.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_MoveRight\Kremlin_MoveRight.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_MoveLeft\Kremlin_MoveLeft.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\BossThink\BossThinkResult.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\BossThink\BossThink.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuUpgrade\MenuUpgrade.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Item\ItemManager\ItemManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Item\Item\Item.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Item\Shield\Shield.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuItemSelect\MenuItemSelect.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuState\MenuUse\MenuUse.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\AbstractPlayer\AbstractPlayer.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerHP\PlayerHP.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Guard\Player_Guard.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_GuardBreak\Player_GuardBreak.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Make\Player_Make.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Normal\Player_Normal.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_OpenMenu\Player_OpenMenu.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Shoot\Player_Shoot.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_ShootNormal\Player_ShootNormal.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_ShootRapid\Player_ShootRapid.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SpearDushAttack\Player_SpearDushAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SpearFirstAttack\Player_SpearFirstAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SpearSecondAttack\Player_SpearSecondAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordDushAttack\Player_SwordDushAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordFifthAttack\Player_SwordFifthAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordFirstAttack\Player_SwordFirstAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordFourthAttack\Player_SwordFourthAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordSecondAttack\Player_SwordSecondAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordThirdAttack\Player_SwordThirdAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerStateManager\PlayerStateManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\Player.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Idle\Kremlin_Idle.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Dead\Player_Dead.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameOver\GameOver.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Dead\Kremlin_Dead.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\GameClear.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base\Actor\Camera\CameraState\Camera_GameClear\Camera_GameClear.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\BackGround\BackGround.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\TitleLogo\TitleLogo.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\TitleStart\TitleStart.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\ClearBack\ClearBack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\CharClear\CharClear.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\Rank\Rank.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\RankCharBase\RankCharBase.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\RankChar\RankA\RankA.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\RankChar\RankChar.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\RankChar\RankS\RankS.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\RankChar\RankB\RankB.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameClear\RankChar\RankC\RankC.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Stun\Player_Stun.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuIcon\MenuIcon.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuSupport\MenuSupport.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuSupport\MenuChar\MenuChar.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu\MenuPushR\MenuPushR.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utility\AnimationMesh\Animation\Animation.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utility\AnimationMesh\AnimationMesh.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utility\Math\Math.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utility\Move\Move.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utility\Music\Music.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utility\Number\Number.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utility\Renderer\Renderer.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\PlayerAttack\PlayerSwordAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\PlayerAttack\PlayerSpearAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Attack\PlayerAttack\PlayerGunAttack.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Enemy\EnemyGenerator\EnemyGenerator.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\TitleTextureManager\TitleTextureManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\TitleBackObject\TitleBicCursor\TitleBigCursor.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\TitleBackObject\TitleBicCursor\TitleScale.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\TitleBackObject\TitleIcon\TitleIcon.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\TitleBackObject\TitleIcon\TitleCursor.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\TitleBackObject\TitleBicCursor\BigCursorPosition.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GameTitle\TitleBackObject\TitleBicCursor\TitleSubCursor.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\GamePlay\ScreenClear\ScreenClear.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Character\Boss\Kremlin\KremlinStateManager\KremlinStateManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Base\Actor\Actor\ActorManager\ActorGroup.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Actor\ActorManager\ActorManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Actor\ActorPtr\ActorPtr.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Actor\Actor.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\BoundingSphere\BoundingSphere.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Field\Field.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Field\FieldPtr.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Ray.Line\Line.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Ray.Line\Ray.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\World\IWorld.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\World\World.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\GameFrame\GameFrameh.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\GameManager\GameManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Wepon\WeponParameter\WeponParameter.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Wepon\WeponName\WeponName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Wepon\Weponptr\Weponptr.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Wepon\WeponType\WeponType.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Effect\Explosion\Fire\Fire.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Effect\Explosion\Explosion.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Effect\Slash\Cut\Cut.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Effect\Slash\Slash.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Scene\GamePlayScene\GamePlayScene.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Scene\GameTitleScene\GameTitleScene.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Scene\NullScene\NullScene.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Scene\SceneManager\SceneManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Scene\IScene.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Scene\IScenePtr.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Scene\Scene.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\EventMessage\EventMessage.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\Kremlin.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Enemy\EnemyDog\DogEnemy.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Boss\BossTarget\BossTarget.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Boss\BossHP\BossHP.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Boss\BossBody\BossBody.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Boss\BossBody\BossHitID.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Effect\SpeedBulletEffect\SpeedBulletEffect.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Effect\SpeedBulletEffect\Laser\Laser.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Effect\Particle\Particle.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Camera\Camera.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Light\Light.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Camera\AbstractCamera\AbstractCamera.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Camera\CameraStateName\CameraStateName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Camera\CameraState\Camera_PlayerNormal\Camera_PlayerNormal.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Camera\CameraState\Camera_PlayerLockon\Camera_PlayerLockon.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Camera\TargetCursor\TargetCursor.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuManager\MenuManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuStateName\MenuStateName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuClose\MenuClose.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuSelect\MenuSelect.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\AbstractMenu\AbstractMenu.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\Menu\Menu.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuCursor\MenuCursor.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuMake\MenuMake.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuSwordSelect\MenuSwordSelect.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\SetMenuResult\SetMenuResult.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuPutWepon\MenuPutWepon.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Wepon\Wepon\Wepon.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuMakeTime\MenuMakeTime.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuChange\MenuChange.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuGunSelect\MenuGunSelect.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuSpearSelect\MenuSpearSelect.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Wepon\WeponSpecialSkill\WeponSpecialSkill.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Boss\BossStateName\BossStateName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Boss\AbstractBoss\AbstractBoss.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_LeftRotate\Kremlin_LeftRotate.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Look\Kremlin_Look.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_RightRotate\kremlin_RightRotate.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Roar\Kremlin_Roar.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\AttackID\AttackID.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\DogShot\DogShot.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\PlayerBullet\RapidBullet\RapidBullet.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\PlayerBullet\SpeedBullet\SpeedBullet.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\EnemyAttack\EnemyAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Fire\Kremlin_Fire.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Punch\Kremlin_Punch.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\EnemyAttack\EnemyBodyAttack\EnemyBodyAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Wait\Kremlin_Wait.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Shoot\Kremlin_Shoot.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\EnemyBullet\EnemyMeteorBullet\EnemyMeteorBullet.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Rush\Kremlin_Rush.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Walk\Kremlin_Walk.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Down\Kremlin_Down.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_KnockBack\Kremlin_KnockBack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Jump\Kremlin_Jump.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Landing\Kremlin_Landing.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Boss\AbstractBoss\AbstractBossPtr.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Dush\Kremlin_Dush.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_MoveRight\Kremlin_MoveRight.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_MoveLeft\Kremlin_MoveLeft.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\BossThink\BossThinkResult.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\BossThink\BossThink.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuUpgrade\MeunUpgrade.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Item\ItemName\ItemName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Item\ItemManager\ItemManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Item\Item\Item.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Item\Shield\Shield.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuItemSelect\MenuItemSelect.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuState\MenuUse\MenuUse.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerHP\PlayerHP.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Guard\Player_Guard.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_GuardBreak\Player_GuardBreak.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Make\Player_Make.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Normal\Player_Normal.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_OpenMenu\Player_OpenMenu.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Shoot\Player_Shoot.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_ShootNormal\Player_ShootNormal.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_ShootRapid\Player_ShootRapid.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SpearDushAttack\Player_SpearDushAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SpearFirstAttack\Player_SpearFirstAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SpearSecondAttack\Player_SpearSecondAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordDushAttack\Player_SwordDushAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordFifthAttack\Player_SwordFifthAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordFirstAttack\Player_SwordFirstAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordFourthAttack\Player_SwordFourthAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordSecondAttack\Player_SwordSecondAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_SwordThirdAttack\Player_SwordThirdAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerStateManager\PlayerStateManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\Player.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\PlayerStateName\PlayerStateName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Idle\Kremlin_Idle.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Dead\Player_Dead.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameOver\GameOver.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinState\Kremlin_Dead\Kremlin_Dead.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\GameClear.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\Actor\Camera\CameraState\Camera_GameClear\Camera_GameClear.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\BackGround\BackGround.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\TitleLogo\TitleLogo.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\TitleStart\TitleStart.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\ClearBack\ClearBack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\CharClear\CharClear.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\Rank\Rank.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\RankCharBase\RankCharBase.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\RankChar\RankA\RankA.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\RankChar\RankChar.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\RankChar\RankS\RankS.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\RankChar\RankB\RankB.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameClear\RankChar\RankC\RankC.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\Player\PlayerState\PlayerState\Player_Stun\Player_Stun.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Player\AbstractPlayer\AbstractPlayer.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuIcon\MenuIcon.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\AbstractMenu\AbstractMenuPtr.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuSupport\MenuSupport.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Screen\Screen.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuSupport\MenuChar\MenuChar.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu\MenuPushR\MenuPushR.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\AnimationMesh\Animation\Animation.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\AnimationMesh\AnimationMesh.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Enum\MeshName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Enum\SoundName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Enum\TextureName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Math\Math.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Move\Move.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Music\Music.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Number\Number.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Renderer\Renderer.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Item\ItemInfo\ItemInfo.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\PlayerAttack\PlayerAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base\GameFrame\Game.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Enum\EffectName.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\PlayerAttack\PlayerSwordAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\PlayerAttack\PlayerSpearAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Attack\PlayerAttack\PlayerGunAttack.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Enemy\EnemyGenerator\EnemyGenerator.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\ITitleTextureBase\ITitleTextureBase.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\TitleTextureManager\TitleTextureManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\TitleBackObject\TitleBicCursor\TitleBigCursor.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\TitleBackObject\TitleBicCursor\TitleScale.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\TitleBackObject\TitleIcon\TitleIcon.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\TitleBackObject\TitleIcon\TitleCursor.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\TitleBackObject\TitleBicCursor\BigCursorPosition.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GameTitle\TitleBackObject\TitleBicCursor\TitleSubCursor.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\GamePlay\ScreenClear\ScreenClear.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Character\Boss\Kremlin\KremlinStateManager\KremlinStateManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\Player\Robo.msh" />
+    <None Include="Resource\SkyBox\SkyBox.msh" />
+    <None Include="Resource\SkyBox\title.msh" />
+    <None Include="Resource\House\house.oct" />
+    <None Include="Resource\House\house_oct.msh" />
+    <None Include="Resource\Player\Robot.skl" />
+    <None Include="Resource\Player\Robot.anm" />
+    <None Include="Resource\Player\Robot.msh" />
+    <None Include="Resource\Dog\Dog.anm" />
+    <None Include="Resource\Dog\Dog.msh" />
+    <None Include="Resource\Dog\Dog.skl" />
+    <None Include="Resource\Dog\DogShot.msh" />
+    <None Include="Resource\Floor\Floor.oct" />
+    <None Include="Resource\Floor\Floor_oct.msh" />
+    <None Include="Resource\Wall\Wall.msh" />
+    <None Include="Resource\Weapon\Sword\IronSword.msh" />
+    <None Include="Resource\Dog\AllyDog.msh" />
+    <None Include="Resource\Dog\AllyDog.skl" />
+    <None Include="Resource\Weapon\Sword\Flamberge.msh" />
+    <None Include="Resource\Weapon\Sword\LongSword.msh" />
+    <None Include="Resource\Ally\pikopiko.msh" />
+    <None Include="Resource\Weapon\Sword\GreatSword.msh" />
+    <None Include="Resource\ShortAlly\ShortAlly.anm" />
+    <None Include="Resource\ShortAlly\Short.skl" />
+    <None Include="Resource\ShortAlly\AllyDog.msh" />
+    <None Include="Resource\Wall\Wall_oct.msh" />
+    <None Include="Resource\Boss\Kremlin\Kremlin.anm" />
+    <None Include="Resource\Boss\Kremlin\Kremlin.msh" />
+    <None Include="Resource\Boss\Kremlin\Kremlin.skl" />
+    <None Include="Resource\Floor\Field_oct.msh" />
+    <None Include="Resource\Floor\Field.oct" />
+    <None Include="Resource\Floor\Sea.msh" />
+    <None Include="Resource\Floor\Field.msh" />
+    <None Include="Resource\Weapon\Spear\IronSpear.msh" />
+    <None Include="Resource\Weapon\Gun\IronCannon.msh" />
+    <None Include="Resource\Weapon\Bullet\SpeedBullet.msh" />
+    <None Include="Resource\Weapon\Gun\Vulcan.msh" />
+    <None Include="Resource\Weapon\Spear\Otegine.msh" />
+    <None Include="Resource\Weapon\Spear\Partisan.msh" />
+    <None Include="Resource\Weapon\Spear\Vajyuranda.msh" />
+    <None Include="Resource\Weapon\Gun\LaserGun.msh" />
+    <None Include="Resource\Weapon\Gun\Cannon.msh" />
+    <None Include="Resource\EnemyAttack\KremlinShot.msh" />
+    <None Include="Resource\MakeItem\Hammer.msh" />
+    <None Include="Resource\MakeItem\MakeWepon.msh" />
+    <None Include="Resource\ShortAlly\AllyDog.skl" />
+    <None Include="Resource\ShortAlly\AllyDog.anm" />
+    <None Include="Resource\Weapon\Bullet\RapidBullet.msh" />
+    <None Include="Resource\Weapon\Bullet\Laser.msh" />
+    <None Include="Resource\Item\Shield.msh" />
+    <None Include="Resource\Effect\Slash.efk" />
+    <None Include="Resource\Effect\SpearEffect.efk" />
+    <None Include="Resource\Effect\GunEffect.efk" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resource\SkyBox\Back.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\SkyBox\Bottom.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\SkyBox\Front.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\SkyBox\Left.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\SkyBox\Right.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\SkyBox\skybox_texture.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\SkyBox\title.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\SkyBox\Top.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Make\MakeBack.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Make\Make.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\icon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\MakeIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\Select.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\UpGradeIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\ChangeIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\SpearIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\UseIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\SwordIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\ItemIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Sword\FlambergeIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Sword\IronSwordIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Sword\LongSwordIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Sword\GreatSwordIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Floor\Ground.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Floor\Sea.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Spear\IronSpearIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Spear\OtegineIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Spear\PartisanIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Spear\VajyurandaIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\GunIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Gun\CannonIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Gun\IronGunIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Gun\LaserGunIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Gun\VulcanIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\UI\HPGauge.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\UI\PlayerIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\RecoveryIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\ShieldIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Icon\PowerUPIcon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameOver\GameOver.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameOver\GameClear.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameTitle\TitleBack.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameTitle\Start.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameTitle\TitleFrame.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameTitle\TitleLogo.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameOver\S.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameOver\Rank.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameOver\Clear.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameOver\C.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameOver\B.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameOver\A.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Make\MakeSupport.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Make\MenuSupport.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharWeponChange.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharUse.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharUpGradeSelect.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharUpgrade.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharSelectItem.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharMakeSword.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharMakeSpear.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharMakeItem.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharMakeGun.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharMake.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharLost.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharItemSelect.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharChange.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Sprite\Fire.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Sprite\Target.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharCannon.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharFlamberge.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharGreatSword.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharIronGun.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharIronSpear.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharIronSword.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharLaserGun.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharLongSword.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharPartisan.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharOtegine.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharVajyuranda.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharVulcan.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Debug\None.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\UI\Number.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\UI\AbilityNumber.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharPowerUp.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharRecovery.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\MakeSupport\CharShield.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="game.ico">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Effect\Slash.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameTitle\TitleScale.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameTitle\TitleBicCursor.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameTitle\TitleBigCursor.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameTitle\TitleSubCursor.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\GameTitle\NowLoading.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Texture\Debug\ScreenHide.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Resource\Sprite\Particle.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resource\Music\BGM\KremlinBGM.mp3" />
+    <Media Include="Resource\Music\SE\SwordSE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\SpearSE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\LaserSE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\GuardSE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\ChangeWeponSE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\Explosion.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\Damage.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\HitSE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\RecoverySE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\ShieldSE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\PowerUPSE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\Cancel.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\Cursor.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\Decision.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\OpenMenu.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\CloseMenu.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\BGM\TitleBGM.mp3" />
+    <Media Include="Resource\Music\BGM\GameOver.mp3" />
+    <Media Include="Resource\Music\BGM\GameClear.mp3" />
+    <Media Include="Resource\Music\SE\TitleStartSE.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="Resource\Music\SE\GameClear.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Kajiyarobo.rc">
+      <Filter>リソース ファイル</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
